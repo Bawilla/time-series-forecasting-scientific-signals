@@ -1,0 +1,7 @@
+
+kaggle.json
+*.zip
+sample_data/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
